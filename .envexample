@@ -1,0 +1,4 @@
+AZURE_API_VERSION = "2023-05-15"
+AZURE_MODEL_NAME = "azure/gpt-4o-mini"
+AZURE_API_BASE = ""
+AZURE_API_KEY = ""
