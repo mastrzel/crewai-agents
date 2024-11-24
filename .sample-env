@@ -1,0 +1,4 @@
+AZURE_API_VERSION = "2023-05-15"
+AZURE_MODEL_NAME = "azure/gpt-4o-mini"
+AZURE_API_BASE = "https://ai-engineer-oai-dev.openai.azure.com/"
+AZURE_API_KEY = "bf07e4912fd24276bfeb5400e2c663c7"
